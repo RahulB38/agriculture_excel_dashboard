@@ -6,6 +6,16 @@ This project is an interactive Microsoft Excel dashboard developed to analyze ag
 
 ---
 
+## 📸 Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](Dashboard/Dashboard.png)
+
+### Dashboard 2
+![Dashboard 2](Dashboard/Dashboard2.png)
+
+---
+
 ## 🎯 Objectives
 
 - Analyze agricultural production across Indian states.
@@ -52,7 +62,7 @@ The dataset used in this project is sourced from the **International Crops Resea
 
 ---
 
-##  Acknowledgements
+## 🙏 Acknowledgements
 
 This dashboard was developed as a data visualization and analytics project using publicly available agricultural datasets provided by **ICRISAT (International Crops Research Institute for the Semi-Arid Tropics)**.
 
